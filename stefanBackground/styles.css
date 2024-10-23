@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+    font-style: oblique;}
+.container {
+    background-color: grey;
+}
+body
+{
+    background-image:url("/stefanBackground/images/StefanBnranding.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
